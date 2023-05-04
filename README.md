@@ -8,3 +8,5 @@ Click More
 and at url paste code
 
 then go to the website you want to use the code on and click the bookmarklet at the top of your screen
+
+Go to my games website with Free Minecraft at https://github.com/NotJack173/Binding
